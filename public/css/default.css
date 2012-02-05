@@ -1,0 +1,25 @@
+body{
+	background: #F9F9F9;
+	padding: 0px;
+	margin: 0px;
+}
+
+#container{
+	width: 70%;
+	margin: 0 auto;
+	background: #FFF;
+}
+
+#header{
+	padding: 10px;
+	margin: 0px;
+	background: #000;
+}
+
+#header h1{
+	color: #FFF;
+}
+
+#image img{
+	border: 9px solid #FFF;
+}
